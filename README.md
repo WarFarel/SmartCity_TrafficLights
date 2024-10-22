@@ -36,30 +36,14 @@ The program operates on a timed basis, starting with the NE and SW directions sh
 This cycle forms the foundation of the traffic light management system.
 
 ---
-#Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/projectname.git
-Navigate to the project directory:
-bash
-Copy code
-cd SmartCity_TrafficLights
-Install the required dependencies:
-bash
-Copy code
-npm install
-Usage
-Here’s how to use the project:
+## Installation
 
-python
-Copy code
-import project
+To install the project, follow these steps:
 
-project.run()
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/projectname.git
 
-# Disclaimer: This program is still in development and is intended for future enhancements.
-Contributing
 If you want to contribute, please follow these steps:
 
 Fork the repository.
@@ -72,4 +56,3 @@ For any questions, feel free to reach out to me at warfarelik@gmail.com.
 css
 Copy code
 
-Feel free to adjust any sections as needed! This format should provide a clear, structured, a
