@@ -49,7 +49,9 @@ To install the project, follow these steps:
 3. **Install the required dependencies:**
   ```bash
    npm install
-```bash
+   ```
+
+---------------------------------
 If you want to contribute, please follow these steps:
 
 Fork the repository.
