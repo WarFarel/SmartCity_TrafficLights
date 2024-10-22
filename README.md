@@ -75,7 +75,7 @@ npm install
 ## Usage
 Here’s how to use the project:
 ```python
-# Example code snippet
+
 import project
 
 project.run()
