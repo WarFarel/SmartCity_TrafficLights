@@ -31,7 +31,7 @@ class TrafficLight:
         print("----------------------")
 
         # The second cycle.
-        time.sleepp(25)  # Turns the green light on for 25 seconds
+        time.sleep(25)  # Turns the green light on for 25 seconds
         print("SE - AMBER")
         print("NW - AMBER")
         print("----------------------")
