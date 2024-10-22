@@ -77,7 +77,7 @@ def change_state(self):
     print("NE - GREEN")
     print("SW - GREEN")
     print("----------------------")
-
+---
 Installation
 Clone the repository:
 bash
