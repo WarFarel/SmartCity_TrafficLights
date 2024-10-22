@@ -54,10 +54,10 @@ To install the project, follow these steps:
 ---
 If you want to contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch.
-Make your changes.
-Submit a pull request.
+1.Fork the repository.   
+2.Create a new branch.   
+3.Make your changes.   
+4.Submit a pull request.    
 
 Contact
 For any questions, feel free to reach out to me at warfarelik@gmail.com.
