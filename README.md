@@ -36,48 +36,6 @@ The program operates on a timed basis, starting with the NE and SW directions sh
 This cycle forms the foundation of the traffic light management system.
 
 ---
-
-## Code Snippet
-```python
-def change_state(self):
-    # This is the first cycle of the light system.
-    time.sleep(25)  # The lights will be on for 25 seconds
-    print("NE - AMBER")
-    print("SW - AMBER")
-    print("----------------------")
-    time.sleep(5)  # The amber lights turn on for 5 sec
-    
-    # Change the opposite sides to red.
-    self.states["NE"] = "Red"
-    self.states["SW"] = "Red"
-    self.states["SE"] = "Green"
-    self.states["NW"] = "Green"
-    
-    print("NE - RED")
-    print("SW - RED")
-    print("SE - GREEN")
-    print("NW - GREEN")
-    print("----------------------")
-
-    # The second cycle.
-    time.sleep(25)  # Turns the green light on for 25 seconds
-    print("SE - AMBER")
-    print("NW - AMBER")
-    print("----------------------")
-    time.sleep(5)  # Turns amber light on for 5 seconds
-    
-    # Change the state to opposite sides again.
-    self.states["SE"] = "Red"
-    self.states["NW"] = "Red"
-    self.states["NE"] = "Green"
-    self.states["SW"] = "Green"
-    
-    print("SE - RED")
-    print("NW - RED")
-    print("NE - GREEN")
-    print("SW - GREEN")
-    print("----------------------")
---------
 #Installation
 Clone the repository:
 bash
