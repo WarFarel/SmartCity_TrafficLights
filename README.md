@@ -59,8 +59,15 @@ Fork the repository.
 Create a new branch.
 Make your changes.
 Submit a pull request.
-##Contact
-For any questions, feel free to reach out to me at  warfarelik@gmail.com.
+
+## 📞 Contact
+
+If you have any questions, feel free to reach out to me at:
+
+**warfarelik@gmail.com**
+
+I’d be happy to help!
+
 
 
 
