@@ -62,6 +62,3 @@ Submit a pull request.
 Contact
 For any questions, feel free to reach out to me at warfarelik@gmail.com.
 
-css
-Copy code
-
