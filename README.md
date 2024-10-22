@@ -44,8 +44,10 @@ To install the project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/projectname.git
 2. **Navigate to the project directory:**
+    ```bash
    cd SmartCity_TrafficLights
-3. **Install the required dependencies:**
+4. **Install the required dependencies:**
+  ```bash
    npm install
 
 
