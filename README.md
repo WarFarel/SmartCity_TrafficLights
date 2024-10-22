@@ -63,7 +63,7 @@ This process is the basics of what the project might
 -------------------------------------------------
 This code shows how I have created then different states and the cycle for changing lights in the program. It is simplistic but it does what is supposed to do.
 
-## Installation
+# Installation
 1. Clone the repository
 git clone https://github.com/yourusername/projectname.git
 2. Navigate to the project directory:
@@ -72,7 +72,7 @@ cd SmartCity_TrafficLights
 npm install
 
 
-## Usage
+# Usage
 Here’s how to use the project:
 ```python
 
@@ -80,13 +80,13 @@ import project
 
 project.run()
 
-## Disclaimer - This program has no usage yet but is to be built on for future projects.
-## Contributing
+# Disclaimer - This program has no usage yet but is to be built on for future projects.
+# Contributing
 If you want to contribute, please follow these steps:
 
 Fork the repository.
 Create a new branch.
 Make your changes.
 Submit a pull request.
-## Contact 
+# Contact 
 For any questions, feel free to reach out to me at warfarelik@gmail.com.
