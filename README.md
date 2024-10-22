@@ -41,29 +41,27 @@ This cycle forms the foundation of the traffic light management system.
 To install the project, follow these steps:
 
 1. **Clone the repository:**
- ```bash
+   ```bash
    git clone https://github.com/yourusername/projectname.git
 2. **Navigate to the project directory:**
-```bash
+    ```bash
    cd SmartCity_TrafficLights
-4. **Install the required dependencies:** 
-```bash
+4. **Install the required dependencies:**
+  ```bash
    npm install
 
 
    
-```
+
 If you want to contribute, please follow these steps:
 
 Fork the repository.
 Create a new branch.
 Make your changes.
 Submit a pull request.
+Contact
+For any questions, feel free to reach out to me at warfarelik@gmail.com.
 
-## 📞 Contact
+css
+Copy code
 
-If you have any questions, feel free to reach out to me at:
-
-**warfarelik@gmail.com**
-
-I’d be happy to help!
