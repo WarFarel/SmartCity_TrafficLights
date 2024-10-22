@@ -1,0 +1,2 @@
+These screenshots represent the process of creation of the program as well as the bug testing it did in the meanwhile, some of the bugs were easy to fix like the typo as while using the python debugger
+It allowed me to easily catch the excpetion.
